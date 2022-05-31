@@ -1,5 +1,5 @@
 {
-    "name": "dzhdmitry/tinkoff-invest-api",
+    "name": "StreetYo/tinkoff-invest-api",
     "description": "PHP client for Tinkoff Invest API",
     "type": "library",
     "license": "MIT",
